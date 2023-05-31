@@ -11,7 +11,7 @@ Tested with OpenCart 3.x and 4.x and PHP 7> (probably working 5.x tooo)
 
 See examples for usage
 
-Use it at your own risk and consider I AM NOT A PHP DEVELOPER :)
+Code is neither solid nor well written so.. use it at your own risk and consider I AM NOT A PHP DEVELOPER :)
 
 If you like it plase offer me a coffe (paypal fabrizio at vettore dot org)
 
