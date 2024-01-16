@@ -10,7 +10,7 @@ It implements some basic catalog operations only:
 
 *set main product characteristics as multilanguage description, images, quantity, prices discount, quantity-discounts....
 
-Tested with OpenCart 3.x and 4.x and PHP 7> (probably working 5.x tooo)
+Tested with OpenCart 3.x and 4.x and PHP 7> (probably working 5.x too)
 
 See examples for usage.
 
